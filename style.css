@@ -4,7 +4,7 @@
 }
 
 :root {
-  --sucess-color: #2ecc71;
+  --success-color: #2ecc71;
   --error-color: #e74c3c;
 }
 
@@ -61,7 +61,7 @@ h2 {
 }
 
 .form-control.success input {
-  border-color: var(--sucess-color);
+  border-color: var(--success-color);
 }
 
 .form-control.error input {
